@@ -1,0 +1,14 @@
+#words{
+	width: 400px;
+}
+#addr{
+	width: 250px;
+}
+#result{
+	padding: 12px;
+	background-color: #fefefe;
+	color: #1e1e1e;
+	margin: 7px;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+}
